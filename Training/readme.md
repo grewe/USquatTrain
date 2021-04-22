@@ -2,7 +2,7 @@
 ### This directory contains code for training using Tesnorflow and Python packages on Google Colab (notebook version) for training of the USquat RNN 
 
 
-####   XXXX = script file for conversion
+####   [USquat_FeatureExtraction.ipynb](https://github.com/grewe/USquatTrain/blob/main/Training/USquat_FeatureExtraction.ipynb) = script file for training
 ####   AAAA.tflite = converted file (or specify link to Google drive for location of tflite mode here) [Google Drive Directory for TFlite](https://drive.google.com/drive/u/0/folders/1__w0BdwhyE4I0rVr4JP5yF3TWG5cx06U)
 
 
