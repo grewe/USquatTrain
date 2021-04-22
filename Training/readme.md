@@ -3,7 +3,12 @@
 
 
 ####   [USquat_FeatureExtraction.ipynb](https://github.com/grewe/USquatTrain/blob/main/Training/USquat_FeatureExtraction.ipynb) = script file for training
-####   AAAA.tflite = converted file (or specify link to Google drive for location of tflite mode here) [Google Drive Directory for TFlite](https://drive.google.com/drive/u/0/folders/1__w0BdwhyE4I0rVr4JP5yF3TWG5cx06U)
+>>>>> [Colab link](https://colab.research.google.com/drive/1flnWPN0XhEcI41e6FoYNl6KRONBxQEXl#scrollTo=z1kMG-aV6hMf)  AND
+>>>>> [Colab Copy](https://colab.research.google.com/drive/1haanzMgEq5P1jpVqCjuL9WSWCUGv_UuD?usp=sharing) permission restricted on drive
+
+
+## Output
+#### [Saved Model](https://github.com/grewe/USquatTrain/tree/main/SavedModel)
 
 
 ## Tensorboard visualization of Training results
