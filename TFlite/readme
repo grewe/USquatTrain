@@ -1,1 +1,0 @@
-This folder contains Python code to read in Tensorflow model (LSTM) and convert it to a TFlite file
